@@ -1,0 +1,4295 @@
+<?xml version="1.0"?>
+<ROWSET>
+<ROW>
+<id>1</id>
+<nome>imaginário</nome>
+<nomesemacento>IMAGINARIO</nomesemacento>
+<desc>1 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Tijuca</end>
+<lat>-22.9229869</lat>
+<lon>-43.23059</lon>
+<filesound>1</filesound>
+<A>2</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>1</G>
+<H>0</H>
+<I>3</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>1</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>2</id>
+<nome>hilário</nome>
+<nomesemacento>HILARIO</nomesemacento>
+<desc>1 Que se refere ao hilo1. 2 Que provoca riso, hilariante.</desc>
+<dic>hi.lá.rio 
+adj (hilo+ário)</dic>
+<frase>É hilário ser uma espécie de aglomerado de informações ambulante e morar em um planeta administrado por &quot;gente&quot; que nem é daqui.</frase>
+<autor>G. Hitchens</autor>
+<end>praça santos dumont, gávea, rio de janeiro</end>
+<lat>-22.9229869</lat>
+<lon>-43.23059</lon>
+<filesound>2</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>1</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>3</id>
+<nome>contrário</nome>
+<nomesemacento>CONTRARIO</nomesemacento>
+<desc>1 contrário, oposto, contraditório. 2 contraposto, fronteiro, frontal. 3 fig inimigo.</desc>
+<dic>con.tra.rio
+sm contrário, inverso, oposto. • agg</dic>
+<frase>O poder é o camaleão ao contrário: todos tomam a sua cor.</frase>
+<autor>Millôr Fernandes</autor>
+<end>Méier, Rio de Janeiro</end>
+<lat>-22.9229869</lat>
+<lon>-43.23059</lon>
+<filesound>3</filesound>
+<A>1</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>4</id>
+<nome>relicário</nome>
+<nomesemacento>RELICARIO</nomesemacento>
+<desc>1 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Tijuca</end>
+<lat>-22.9229869</lat>
+<lon>-43.23059</lon>
+<filesound>4</filesound>
+<A>1</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>5</id>
+<nome>armário</nome>
+<nomesemacento>ARMARIO</nomesemacento>
+<desc>1 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Sao Sebastiao I. De</end>
+<lat>23°50&apos;S</lat>
+<lon>45°18&apos;W</lon>
+<filesound>5</filesound>
+<A>2</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>6</id>
+<nome>comentário</nome>
+<nomesemacento>COMENTARIO</nomesemacento>
+<desc>1 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sao tome C. de</end>
+<lat>22°0&apos;S</lat>
+<lon>40°59&apos;W</lon>
+<filesound>6</filesound>
+<A>1</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>1</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>7</id>
+<nome>brumário</nome>
+<nomesemacento>BRUMARIO</nomesemacento>
+<desc>1 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Sao Vicente</end>
+<lat>23°57&apos;S</lat>
+<lon>46°23&apos;W</lon>
+<filesound>7</filesound>
+<A>1</A>
+<B>1</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>8</id>
+<nome>visionário</nome>
+<nomesemacento>VISIONARIO</nomesemacento>
+<desc>2 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Saturnina</end>
+<lat>12°15&apos;S</lat>
+<lon>58°10&apos;W</lon>
+<filesound>8</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>3</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>0</T>
+<U>0</U>
+<V>1</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>9</id>
+<nome>velório</nome>
+<nomesemacento>VELORIO</nomesemacento>
+<desc>2 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Selvas</end>
+<lat>6°30&apos;S</lat>
+<lon>67°0&apos;W</lon>
+<filesound>9</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>1</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>10</id>
+<nome>literário</nome>
+<nomesemacento>LITERARIO</nomesemacento>
+<desc>3 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sena Madureira</end>
+<lat>9°5&apos;S</lat>
+<lon>68°45&apos;W</lon>
+<filesound>10</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>11</id>
+<nome>ANTIQUÁRIO</nome>
+<nomesemacento>ANTIQUARIO</nomesemacento>
+<desc>3 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Senhor-do-Bonfim</end>
+<lat>10°30&apos;S</lat>
+<lon>40°10&apos;W</lon>
+<filesound>11</filesound>
+<A>2</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>1</O>
+<P>0</P>
+<Q>1</Q>
+<R>1</R>
+<S>0</S>
+<T>1</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>12</id>
+<nome>MISTÉRIO</nome>
+<nomesemacento>MISTERIO</nomesemacento>
+<desc>4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sergipe</end>
+<lat>10°30&apos;S</lat>
+<lon>37°30&apos;W</lon>
+<filesound>12</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>13</id>
+<nome>AUTORITÁRIO</nome>
+<nomesemacento>AUTORITARIO</nomesemacento>
+<desc>4 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Serra do Navio</end>
+<lat>0°59&apos;N</lat>
+<lon>52°3&apos;W</lon>
+<filesound>13</filesound>
+<A>2</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>2</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>14</id>
+<nome>MARTÍRIO</nome>
+<nomesemacento>MARTIRIO</nomesemacento>
+<desc>2 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sertanopolis</end>
+<lat>23°4&apos;S</lat>
+<lon>51°2&apos;W</lon>
+<filesound>14</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>15</id>
+<nome>HILÁRIO</nome>
+<nomesemacento>HILARIO</nomesemacento>
+<desc>2 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Sete Lagoas</end>
+<lat>19°27&apos;S</lat>
+<lon>44°16&apos;W</lon>
+<filesound>15</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>1</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>16</id>
+<nome>ONDULATÓRIO</nome>
+<nomesemacento>ONDULATORIO</nomesemacento>
+<desc>3 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sincora, Serra do,</end>
+<lat>13°30&apos;S</lat>
+<lon>41°0&apos;W</lon>
+<filesound>16</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>1</N>
+<O>3</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>1</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>17</id>
+<nome>BALNEÁRIO</nome>
+<nomesemacento>BALNEARIO</nomesemacento>
+<desc>3 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Sobradinho Represa de</end>
+<lat>9°30&apos;S</lat>
+<lon>42°0&apos;E</lon>
+<filesound>17</filesound>
+<A>2</A>
+<B>1</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>1</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>18</id>
+<nome>DEJÚRIO</nome>
+<nomesemacento>DEJURIO</nomesemacento>
+<desc>4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sobral</end>
+<lat>3°50&apos;S</lat>
+<lon>40°20&apos;W</lon>
+<filesound>18</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>1</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>19</id>
+<nome>BESTIÁRIO</nome>
+<nomesemacento>BESTIARIO</nomesemacento>
+<desc>4 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Sono</end>
+<lat>9°58&apos;S</lat>
+<lon>48°11&apos;W</lon>
+<filesound>19</filesound>
+<A>1</A>
+<B>1</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>20</id>
+<nome>CRITÉRIO</nome>
+<nomesemacento>CRITERIO</nomesemacento>
+<desc>5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sorocaba</end>
+<lat>23°31&apos;S</lat>
+<lon>47°27&apos;W</lon>
+<filesound>20</filesound>
+<A>0</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>21</id>
+<nome>CALVÁRIO</nome>
+<nomesemacento>CALVARIO</nomesemacento>
+<desc>5 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Soure</end>
+<lat>0°35&apos;S</lat>
+<lon>48°30&apos;W</lon>
+<filesound>21</filesound>
+<A>2</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>1</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>22</id>
+<nome>ALVEDRIO</nome>
+<nomesemacento>ALVEDRIO</nomesemacento>
+<desc>3 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sousa</end>
+<lat>6°45&apos;S</lat>
+<lon>38°10&apos;W</lon>
+<filesound>22</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>1</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>23</id>
+<nome>CARCERÁRIO</nome>
+<nomesemacento>CARCERARIO</nomesemacento>
+<desc>2 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Tapaua</end>
+<lat>5°40&apos;S</lat>
+<lon>64°21&apos;W</lon>
+<filesound>23</filesound>
+<A>2</A>
+<B>0</B>
+<C>2</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>3</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>24</id>
+<nome>PROVISÓRIO</nome>
+<nomesemacento>PROVISORIO</nomesemacento>
+<desc>2 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Taquara</end>
+<lat>29°36&apos;S</lat>
+<lon>50°46&apos;W</lon>
+<filesound>24</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>3</O>
+<P>1</P>
+<Q>0</Q>
+<R>2</R>
+<S>1</S>
+<T>0</T>
+<U>0</U>
+<V>1</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>25</id>
+<nome>IMAGINÁRIO</nome>
+<nomesemacento>IMAGINARIO</nomesemacento>
+<desc>3 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Teles Pires</end>
+<lat>7°21&apos;S</lat>
+<lon>58°3&apos;W</lon>
+<filesound>25</filesound>
+<A>2</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>1</G>
+<H>0</H>
+<I>3</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>1</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>26</id>
+<nome>AUGÚRIO</nome>
+<nomesemacento>AUGURIO</nomesemacento>
+<desc>3 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Tibagi</end>
+<lat>24°30&apos;S</lat>
+<lon>50°24&apos;W</lon>
+<filesound>26</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>1</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>2</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>27</id>
+<nome>CENTENÁRIO</nome>
+<nomesemacento>CENTENARIO</nomesemacento>
+<desc>4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Tiete</end>
+<lat>20°40&apos;S</lat>
+<lon>51°35&apos;W</lon>
+<filesound>27</filesound>
+<A>1</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>2</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>2</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>28</id>
+<nome>GALDÉRIO</nome>
+<nomesemacento>GALDERIO</nomesemacento>
+<desc>4 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Tocantins</end>
+<lat>10°0&apos;S</lat>
+<lon>48°0&apos;W</lon>
+<filesound>28</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>1</E>
+<F>0</F>
+<G>1</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>29</id>
+<nome>DEFICITÁRIO</nome>
+<nomesemacento>DEFICITARIO</nomesemacento>
+<desc>5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Todas os Santos B. de</end>
+<lat>12°48&apos;S</lat>
+<lon>38°38&apos;W</lon>
+<filesound>29</filesound>
+<A>1</A>
+<B>0</B>
+<C>1</C>
+<D>1</D>
+<E>1</E>
+<F>1</F>
+<G>0</G>
+<H>0</H>
+<I>3</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>30</id>
+<nome>MULHERIO</nome>
+<nomesemacento>MULHERIO</nomesemacento>
+<desc>5 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Toledo</end>
+<lat>24°44&apos;S</lat>
+<lon>53°45&apos;W</lon>
+<filesound>30</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>1</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>1</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>31</id>
+<nome>EMISSÁRIO</nome>
+<nomesemacento>EMISSARIO</nomesemacento>
+<desc>3 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Tonantins</end>
+<lat>2°45&apos;S</lat>
+<lon>67°45&apos;W</lon>
+<filesound>31</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>2</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>32</id>
+<nome>SIMPLÓRIO</nome>
+<nomesemacento>SIMPLORIO</nomesemacento>
+<desc>3 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Torres</end>
+<lat>29°21&apos;S</lat>
+<lon>49°44&apos;W</lon>
+<filesound>32</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>1</M>
+<N>0</N>
+<O>2</O>
+<P>1</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>33</id>
+<nome>ERÁRIO</nome>
+<nomesemacento>ERARIO</nomesemacento>
+<desc>4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Trindade</end>
+<lat>16°40&apos;S</lat>
+<lon>49°30&apos;W</lon>
+<filesound>33</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>34</id>
+<nome>ESPÚRIO</nome>
+<nomesemacento>ESPURIO</nomesemacento>
+<desc>4 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Trombetas</end>
+<lat>1°55&apos;S</lat>
+<lon>55°35&apos;W</lon>
+<filesound>34</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>1</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>0</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>35</id>
+<nome>ESTUÁRIO</nome>
+<nomesemacento>ESTUARIO</nomesemacento>
+<desc>5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Tubarao</end>
+<lat>28°30&apos;S</lat>
+<lon>49°0&apos;W</lon>
+<filesound>35</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>1</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>36</id>
+<nome>REFRIGÉRIO</nome>
+<nomesemacento>REFRIGERIO</nomesemacento>
+<desc>5 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Tucurui</end>
+<lat>3°42&apos;S</lat>
+<lon>49°44&apos;W</lon>
+<filesound>36</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>2</E>
+<F>1</F>
+<G>1</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>3</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>37</id>
+<nome>EXTRAORDINÁRIO</nome>
+<nomesemacento>EXTRAORDINARIO</nomesemacento>
+<desc>6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Tucurui Represa de</end>
+<lat>4°0&apos;S</lat>
+<lon>49°30&apos;W</lon>
+<filesound>37</filesound>
+<A>2</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>3</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>1</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>38</id>
+<nome>MERENCÓRIO</nome>
+<nomesemacento>MERENCORIO</nomesemacento>
+<desc>6 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Tumucumaque Serra</end>
+<lat>2°0&apos;N</lat>
+<lon>55°0&apos;W</lon>
+<filesound>38</filesound>
+<A>0</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>2</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>1</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>39</id>
+<nome>CENÁRIO</nome>
+<nomesemacento>CENARIO</nomesemacento>
+<desc>4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Tupa</end>
+<lat>21°57&apos;S</lat>
+<lon>50°28&apos;W</lon>
+<filesound>39</filesound>
+<A>1</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>40</id>
+<nome>MURMÚRIO</nome>
+<nomesemacento>MURMURIO</nomesemacento>
+<desc>3 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Turiacu</end>
+<lat>1°40&apos;S</lat>
+<lon>45°19&apos;E</lon>
+<filesound>40</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>2</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>2</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>41</id>
+<nome>PUBLICITÁRIO</nome>
+<nomesemacento>PUBLICITARIO</nomesemacento>
+<desc>3 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Tutoia</end>
+<lat>2°45&apos;S</lat>
+<lon>42°20&apos;W</lon>
+<filesound>41</filesound>
+<A>1</A>
+<B>1</B>
+<C>1</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>3</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>1</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>1</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>42</id>
+<nome>SÉRIO</nome>
+<nomesemacento>SERIO</nomesemacento>
+<desc>4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>uatuma</end>
+<lat>2°26&apos;S</lat>
+<lon>57°37&apos;W</lon>
+<filesound>42</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>43</id>
+<nome>COMUNITÁRIO</nome>
+<nomesemacento>COMUNITARIO</nomesemacento>
+<desc>4 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Uaupes</end>
+<lat>0°8&apos;S</lat>
+<lon>67°5&apos;W</lon>
+<filesound>43</filesound>
+<A>1</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>1</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>1</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>44</id>
+<nome>IMPRÓPRIO</nome>
+<nomesemacento>IMPROPRIO</nomesemacento>
+<desc>5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Uba</end>
+<lat>21°8&apos;S</lat>
+<lon>43°0&apos;W</lon>
+<filesound>44</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>0</N>
+<O>2</O>
+<P>2</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>45</id>
+<nome>CONTRÁRIO</nome>
+<nomesemacento>CONTRARIO</nomesemacento>
+<desc>5 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Ubaitaba</end>
+<lat>14°18&apos;S</lat>
+<lon>39°20&apos;W</lon>
+<filesound>45</filesound>
+<A>1</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>46</id>
+<nome>EPICÚRIO</nome>
+<nomesemacento>EPICURIO</nomesemacento>
+<desc>6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Uberaba</end>
+<lat>19°50&apos;S</lat>
+<lon>47°55&apos;W</lon>
+<filesound>46</filesound>
+<A>0</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>1</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>47</id>
+<nome>FALSÁRIO</nome>
+<nomesemacento>FALSARIO</nomesemacento>
+<desc>6 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Uberlandia</end>
+<lat>19°0&apos;S</lat>
+<lon>48°20&apos;W</lon>
+<filesound>47</filesound>
+<A>2</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>1</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>48</id>
+<nome>DESPAUTÉRIO</nome>
+<nomesemacento>DESPAUTERIO</nomesemacento>
+<desc>4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Umuarama</end>
+<lat>23°45&apos;S</lat>
+<lon>53°20&apos;W</lon>
+<filesound>48</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>2</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>1</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>1</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>49</id>
+<nome>FUNCIONÁRIO</nome>
+<nomesemacento>FUNCIONARIO</nomesemacento>
+<desc>4 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Uniao da Vitoria</end>
+<lat>26°13&apos;S</lat>
+<lon>51°5&apos;W</lon>
+<filesound>49</filesound>
+<A>1</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>0</E>
+<F>1</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>2</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>50</id>
+<nome>NOTÓRIO</nome>
+<nomesemacento>NOTORIO</nomesemacento>
+<desc>5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Vacaria</end>
+<lat>28°31&apos;S</lat>
+<lon>50°52&apos;W</lon>
+<filesound>50</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>3</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>51</id>
+<nome>HUMANITÁRIO</nome>
+<nomesemacento>HUMANITARIO</nomesemacento>
+<desc>5 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Valenca</end>
+<lat>13°20&apos;S</lat>
+<lon>39°5&apos;W</lon>
+<filesound>51</filesound>
+<A>2</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>1</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>1</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>1</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>52</id>
+<nome>MERCÚRIO</nome>
+<nomesemacento>MERCURIO</nomesemacento>
+<desc>6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Valenca do Piaui</end>
+<lat>6°20&apos;S</lat>
+<lon>41°45&apos;W</lon>
+<filesound>52</filesound>
+<A>0</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>53</id>
+<nome>INCENDIÁRIO</nome>
+<nomesemacento>INCENDIARIO</nomesemacento>
+<desc>6 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Valentim Sa. Do</end>
+<lat>6°0&apos;S</lat>
+<lon>43°30&apos;W</lon>
+<filesound>53</filesound>
+<A>1</A>
+<B>0</B>
+<C>1</C>
+<D>1</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>3</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>2</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>54</id>
+<nome>ÉBRIO</nome>
+<nomesemacento>EBRIO</nomesemacento>
+<desc>7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Varginha</end>
+<lat>21°33&apos;S</lat>
+<lon>45°25&apos;W</lon>
+<filesound>54</filesound>
+<A>0</A>
+<B>1</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>55</id>
+<nome>LENDÁRIO</nome>
+<nomesemacento>LENDARIO</nomesemacento>
+<desc>7 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Vaupes/Uaupes</end>
+<lat>0°2&apos;N</lat>
+<lon>67°16&apos;W</lon>
+<filesound>55</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>1</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>56</id>
+<nome>DESVARIO</nome>
+<nomesemacento>DESVARIO</nomesemacento>
+<desc>5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Velhas</end>
+<lat>17°13&apos;S</lat>
+<lon>44°49&apos;W</lon>
+<filesound>56</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>0</T>
+<U>0</U>
+<V>1</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>57</id>
+<nome>LITERÁRIO</nome>
+<nomesemacento>LITERARIO</nomesemacento>
+<desc>4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Verde Goias</end>
+<lat>18°1&apos;S</lat>
+<lon>50°14&apos;W</lon>
+<filesound>57</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>58</id>
+<nome>RESERVATÓRIO</nome>
+<nomesemacento>RESERVATORIO</nomesemacento>
+<desc>4 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Verde Mato Grosso do Sul</end>
+<lat>21°25&apos;S</lat>
+<lon>52°20&apos;W</lon>
+<filesound>58</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>2</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>3</R>
+<S>1</S>
+<T>1</T>
+<U>0</U>
+<V>1</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>59</id>
+<nome>MERCENÁRIO</nome>
+<nomesemacento>MERCENARIO</nomesemacento>
+<desc>5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Viamao</end>
+<lat>3°13&apos;S</lat>
+<lon>44°55&apos;W</lon>
+<filesound>59</filesound>
+<A>1</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>2</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>1</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>60</id>
+<nome>ANTÚRIO</nome>
+<nomesemacento>ANTURIO</nomesemacento>
+<desc>5 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Vianopolis</end>
+<lat>16°40&apos;S</lat>
+<lon>48°35&apos;W</lon>
+<filesound>60</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>1</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>61</id>
+<nome>MILIONÁRIO</nome>
+<nomesemacento>MILIONARIO</nomesemacento>
+<desc>6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Vigia</end>
+<lat>0°50&apos;S</lat>
+<lon>48°5&apos;W</lon>
+<filesound>61</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>3</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>1</M>
+<N>1</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>62</id>
+<nome>ADULTÉRIO</nome>
+<nomesemacento>ADULTERIO</nomesemacento>
+<desc>6 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Vila Velha</end>
+<lat>20°20&apos;S</lat>
+<lon>40°17&apos;W</lon>
+<filesound>62</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>1</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>63</id>
+<nome>NECESSÁRIO</nome>
+<nomesemacento>NECESSARIO</nomesemacento>
+<desc>7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Vilhena</end>
+<lat>12°40&apos;S</lat>
+<lon>60°5&apos;W</lon>
+<filesound>63</filesound>
+<A>1</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>2</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>2</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>64</id>
+<nome>DELÍRIO</nome>
+<nomesemacento>DELIRIO</nomesemacento>
+<desc>7 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Viseu</end>
+<lat>1°10&apos;S</lat>
+<lon>46°5&apos;W</lon>
+<filesound>64</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>65</id>
+<nome>OTÁRIO</nome>
+<nomesemacento>OTARIO</nomesemacento>
+<desc>5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Vitoria</end>
+<lat>20°20&apos;S</lat>
+<lon>40°22&apos;W</lon>
+<filesound>65</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>66</id>
+<nome>TERRITÓRIO</nome>
+<nomesemacento>TERRITORIO</nomesemacento>
+<desc>5 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Vitoria da Conquista</end>
+<lat>14°51&apos;S</lat>
+<lon>40°51&apos;W</lon>
+<filesound>66</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>3</R>
+<S>0</S>
+<T>2</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>67</id>
+<nome>PROLETÁRIO</nome>
+<nomesemacento>PROLETARIO</nomesemacento>
+<desc>6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Vitoria de Sao Antao</end>
+<lat>8°10&apos;S</lat>
+<lon>35°20&apos;W</lon>
+<filesound>67</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>1</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>68</id>
+<nome>PERJÚRIO</nome>
+<nomesemacento>PERJURIO</nomesemacento>
+<desc>6 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Volta Redonda</end>
+<lat>22°31&apos;S</lat>
+<lon>44°5&apos;W</lon>
+<filesound>68</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>1</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>1</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>69</id>
+<nome>SANTUÁRIO</nome>
+<nomesemacento>SANTUARIO</nomesemacento>
+<desc>7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Roraima</end>
+<lat>2°0&apos;N</lat>
+<lon>61°30&apos;W</lon>
+<filesound>69</filesound>
+<A>2</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>1</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>70</id>
+<nome>DELETÉRIO</nome>
+<nomesemacento>DELETERIO</nomesemacento>
+<desc>7 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Rosarioa</end>
+<lat>3°0&apos;S</lat>
+<lon>44°15&apos;W</lon>
+<filesound>70</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>3</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>71</id>
+<nome>SEDENTÁRIO</nome>
+<nomesemacento>SEDENTARIO</nomesemacento>
+<desc>8 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Rosario do Sul</end>
+<lat>30°15&apos;S</lat>
+<lon>54°55&apos;W</lon>
+<filesound>71</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>2</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>72</id>
+<nome>FALARIO</nome>
+<nomesemacento>FALARIO</nomesemacento>
+<desc>8 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Salinas</end>
+<lat>16°10&apos;S</lat>
+<lon>42°10&apos;W</lon>
+<filesound>72</filesound>
+<A>2</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>1</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>73</id>
+<nome>OPERÁRIO</nome>
+<nomesemacento>OPERARIO</nomesemacento>
+<desc>6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Salvador</end>
+<lat>13°0&apos;S</lat>
+<lon>38°30&apos;W</lon>
+<filesound>73</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>1</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>74</id>
+<nome>COMPULSÓRIO</nome>
+<nomesemacento>COMPULSORIO</nomesemacento>
+<desc>5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sangue</end>
+<lat>11°1&apos;S</lat>
+<lon>58°39&apos;W</lon>
+<filesound>74</filesound>
+<A>0</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>1</M>
+<N>0</N>
+<O>3</O>
+<P>1</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>0</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>75</id>
+<nome>PROPRIETÁRIO</nome>
+<nomesemacento>PROPRIETARIO</nomesemacento>
+<desc>5 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Santa Catarina</end>
+<lat>27°25&apos;S</lat>
+<lon>48°30&apos;W</lon>
+<filesound>75</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>2</P>
+<Q>0</Q>
+<R>3</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>76</id>
+<nome>IMPROPÉRIO</nome>
+<nomesemacento>IMPROPERIO</nomesemacento>
+<desc>6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Santa Catarina I. De</end>
+<lat>27°30&apos;S</lat>
+<lon>48°40&apos;W</lon>
+<filesound>76</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>0</N>
+<O>2</O>
+<P>2</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>77</id>
+<nome>ORDINÁRIO</nome>
+<nomesemacento>ORDINARIO</nomesemacento>
+<desc>6 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Santa Cruz do Rio Pardo</end>
+<lat>54&apos;S</lat>
+<lon>49°37&apos;W</lon>
+<filesound>77</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>78</id>
+<nome>CASARIO</nome>
+<nomesemacento>CASARIO</nomesemacento>
+<desc>7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Santa Curz do Sul</end>
+<lat>29°42&apos;S</lat>
+<lon>52°25&apos;W</lon>
+<filesound>78</filesound>
+<A>2</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>79</id>
+<nome>ORIGINÁRIO</nome>
+<nomesemacento>ORIGINARIO</nomesemacento>
+<desc>7 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Santa Fe do Sul</end>
+<lat>20°13&apos;S</lat>
+<lon>50°56&apos;W</lon>
+<filesound>79</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>1</G>
+<H>0</H>
+<I>3</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>80</id>
+<nome>ILUSÓRIO</nome>
+<nomesemacento>ILUSORIO</nomesemacento>
+<desc>8 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Santa Isabel do Morro</end>
+<lat>11°34&apos;S</lat>
+<lon>50°40&apos;W</lon>
+<filesound>80</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>0</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>81</id>
+<nome>PERDULÁRIO</nome>
+<nomesemacento>PERDULARIO</nomesemacento>
+<desc>8 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Santa Maria</end>
+<lat>29°40&apos;S</lat>
+<lon>53°48&apos;W</lon>
+<filesound>81</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>1</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>82</id>
+<nome>NECROTÉRIO</nome>
+<nomesemacento>NECROTERIO</nomesemacento>
+<desc>6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Santa Maria da Vitoria</end>
+<lat>13°24&apos;S</lat>
+<lon>44°12&apos;W</lon>
+<filesound>82</filesound>
+<A>0</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>2</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>83</id>
+<nome>PLAGIÁRIO</nome>
+<nomesemacento>PLAGIARIO</nomesemacento>
+<desc>6 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Santa Marta Grande C.</end>
+<lat>28°43&apos;S</lat>
+<lon>48°50&apos;W</lon>
+<filesound>83</filesound>
+<A>2</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>1</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>1</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>84</id>
+<nome>IRRISÓRIO</nome>
+<nomesemacento>IRRISORIO</nomesemacento>
+<desc>7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Santa Rosa</end>
+<lat>27°52&apos;S</lat>
+<lon>54°29&apos;W</lon>
+<filesound>84</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>3</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>3</R>
+<S>1</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>85</id>
+<nome>LIBERTÁRIO</nome>
+<nomesemacento>LIBERTARIO</nomesemacento>
+<desc>7 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Santa Vitoria do Palmar</end>
+<lat>33°32&apos;S</lat>
+<lon>53°25&apos;W</lon>
+<filesound>85</filesound>
+<A>1</A>
+<B>1</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>86</id>
+<nome>MAGISTÉRIO</nome>
+<nomesemacento>MAGISTERIO</nomesemacento>
+<desc>8 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Santana, Coxilha de,</end>
+<lat>30°50&apos;S</lat>
+<lon>55°35&apos;W</lon>
+<filesound>86</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>1</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>87</id>
+<nome>PORTUÁRIO</nome>
+<nomesemacento>PORTUARIO</nomesemacento>
+<desc>8 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Santana do Livramento</end>
+<lat>30°55&apos;S</lat>
+<lon>55°30&apos;W</lon>
+<filesound>87</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>1</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>88</id>
+<nome>BRIO</nome>
+<nomesemacento>BRIO</nomesemacento>
+<desc>9 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Santarem</end>
+<lat>2°25&apos;S</lat>
+<lon>54°42&apos;W</lon>
+<filesound>88</filesound>
+<A>0</A>
+<B>1</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>89</id>
+<nome>PRECÁRIO</nome>
+<nomesemacento>PRECARIO</nomesemacento>
+<desc>9 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Satiago</end>
+<lat>29°11&apos;S</lat>
+<lon>54°52&apos;W</lon>
+<filesound>89</filesound>
+<A>1</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>1</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>90</id>
+<nome>PURGATÓRIO</nome>
+<nomesemacento>PURGATORIO</nomesemacento>
+<desc>7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Santo Amaro</end>
+<lat>12°30&apos;S</lat>
+<lon>38°43&apos;W</lon>
+<filesound>90</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>1</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>1</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>91</id>
+<nome>VÁRIO</nome>
+<nomesemacento>VARIO</nomesemacento>
+<desc>6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Santo Anastacio</end>
+<lat>21°58&apos;S</lat>
+<lon>51°39&apos;W</lon>
+<filesound>91</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>1</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>92</id>
+<nome>PODERIO</nome>
+<nomesemacento>PODERIO</nomesemacento>
+<desc>6 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Santo Antonio do Ica</end>
+<lat>3°5&apos;S</lat>
+<lon>67°57&apos;W</lon>
+<filesound>92</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>1</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>93</id>
+<nome>REACIONÁRIO</nome>
+<nomesemacento>REACIONARIO</nomesemacento>
+<desc>7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Santo Antonio do Leverger</end>
+<lat>15°52&apos;S</lat>
+<lon>56°5&apos;W</lon>
+<filesound>93</filesound>
+<A>2</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>94</id>
+<nome>SATISFATÓRIO</nome>
+<nomesemacento>SATISFATORIO</nomesemacento>
+<desc>7 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Santos</end>
+<lat>24°0&apos;S</lat>
+<lon>46°20&apos;W</lon>
+<filesound>94</filesound>
+<A>2</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>1</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>2</S>
+<T>2</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>95</id>
+<nome>REVOLUCIONÁRIO</nome>
+<nomesemacento>REVOLUCIONARIO</nomesemacento>
+<desc>8 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sao Bernardo do Campo</end>
+<lat>23°45&apos;S</lat>
+<lon>46°34&apos;W</lon>
+<filesound>95</filesound>
+<A>1</A>
+<B>0</B>
+<C>1</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>1</N>
+<O>3</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>0</T>
+<U>1</U>
+<V>1</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>96</id>
+<nome>SOMBRIO</nome>
+<nomesemacento>SOMBRIO</nomesemacento>
+<desc>8 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Sao Borja</end>
+<lat>22°0&apos;S</lat>
+<lon>47°50&apos;W</lon>
+<filesound>96</filesound>
+<A>0</A>
+<B>1</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>0</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>97</id>
+<nome>SANGUINÁRIO</nome>
+<nomesemacento>SANGUINARIO</nomesemacento>
+<desc>9 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sao Cristovao</end>
+<lat>11°1&apos;S</lat>
+<lon>37°15&apos;W</lon>
+<filesound>97</filesound>
+<A>2</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>1</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>2</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>0</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>98</id>
+<nome>EMPÓRIO</nome>
+<nomesemacento>EMPORIO</nomesemacento>
+<desc>9 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Sao Domingos</end>
+<lat>13°25&apos;S</lat>
+<lon>46°19&apos;W</lon>
+<filesound>98</filesound>
+<A>0</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>0</N>
+<O>2</O>
+<P>1</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>99</id>
+<nome>SOLIDÁRIO</nome>
+<nomesemacento>SOLIDARIO</nomesemacento>
+<desc>7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sao Francisco</end>
+<lat>16°0&apos;S</lat>
+<lon>44°50&apos;W</lon>
+<filesound>99</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>100</id>
+<nome>OBSERVATÓRIO</nome>
+<nomesemacento>OBSERVATORIO</nomesemacento>
+<desc>7 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Sao Francisco do Sul</end>
+<lat>26°15&apos;S</lat>
+<lon>48°36&apos;W</lon>
+<filesound>100</filesound>
+<A>1</A>
+<B>1</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>3</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>1</S>
+<T>1</T>
+<U>0</U>
+<V>1</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>101</id>
+<nome>SOLÁRIO</nome>
+<nomesemacento>SOLARIO</nomesemacento>
+<desc>8 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sao Gabriel</end>
+<lat>30°20&apos;S</lat>
+<lon>54°20&apos;W</lon>
+<filesound>101</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>0</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>102</id>
+<nome>ALEATÓRIO</nome>
+<nomesemacento>ALEATORIO</nomesemacento>
+<desc>8 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Sao Goncalo</end>
+<lat>22°48&apos;S</lat>
+<lon>43°5&apos;W</lon>
+<filesound>102</filesound>
+<A>2</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>1</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>103</id>
+<nome>TEMERÁRIO</nome>
+<nomesemacento>TEMERARIO</nomesemacento>
+<desc>9 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sao Joao da Boa vista</end>
+<lat>22°0&apos;S</lat>
+<lon>46°52&apos;W</lon>
+<filesound>103</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>2</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>104</id>
+<nome>PREDATÓRIO</nome>
+<nomesemacento>PREDATORIO</nomesemacento>
+<desc>9 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Sao Joao del Rei</end>
+<lat>21°8&apos;S</lat>
+<lon>44°15&apos;W</lon>
+<filesound>104</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>1</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>2</O>
+<P>1</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>105</id>
+<nome>TEMPORÁRIO</nome>
+<nomesemacento>TEMPORARIO</nomesemacento>
+<desc>10 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sao Joao do Piaui</end>
+<lat>8°21&apos;S</lat>
+<lon>42°15&apos;W</lon>
+<filesound>105</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>1</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>1</M>
+<N>0</N>
+<O>2</O>
+<P>1</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>106</id>
+<nome>ROTATÓRIO</nome>
+<nomesemacento>ROTATORIO</nomesemacento>
+<desc>10 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Sao Jose</end>
+<lat>27°38&apos;S</lat>
+<lon>48°39&apos;W</lon>
+<filesound>106</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>1</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>3</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>2</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>107</id>
+<nome>TRIBUTÁRIO</nome>
+<nomesemacento>TRIBUTARIO</nomesemacento>
+<desc>8 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sao Jose do Norte</end>
+<lat>32°1&apos;S</lat>
+<lon>52°3&apos;W</lon>
+<filesound>107</filesound>
+<A>1</A>
+<B>1</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>1</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>2</T>
+<U>1</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>108</id>
+<nome>OBRIGATÓRIO</nome>
+<nomesemacento>OBRIGATORIO</nomesemacento>
+<desc>7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sao Jose dos Campos</end>
+<lat>23°7&apos;S</lat>
+<lon>45°52&apos;W</lon>
+<filesound>108</filesound>
+<A>1</A>
+<B>1</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>1</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>0</N>
+<O>3</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>0</S>
+<T>1</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>109</id>
+<nome>VISIONÁRIO</nome>
+<nomesemacento>VISIONARIO</nomesemacento>
+<desc>7 ipsum lorem ipsum lorem</desc>
+<dic>ip.sum lo.rem</dic>
+<frase>ipsum ipsum ipsum lorem</frase>
+<autor>I. Lorem</autor>
+<end>Sao Leopoldo</end>
+<lat>29°50&apos;S</lat>
+<lon>51°10&apos;W</lon>
+<filesound>109</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>3</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>1</R>
+<S>1</S>
+<T>0</T>
+<U>0</U>
+<V>1</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+<ROW>
+<id>110</id>
+<nome>TRANSITÓRIO</nome>
+<nomesemacento>TRANSITORIO</nomesemacento>
+<desc>8 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum</desc>
+<dic>lo.rem ip.sum</dic>
+<frase>lorem ipsum lorem ipsum lorem ipsum</frase>
+<autor>L. Ipsum</autor>
+<end>Sao Lourenco</end>
+<lat>22°7&apos;S</lat>
+<lon>45°3&apos;W</lon>
+<filesound>110</filesound>
+<A>1</A>
+<B>0</B>
+<C>0</C>
+<D>0</D>
+<E>0</E>
+<F>0</F>
+<G>0</G>
+<H>0</H>
+<I>2</I>
+<J>0</J>
+<K>0</K>
+<L>0</L>
+<M>0</M>
+<N>1</N>
+<O>2</O>
+<P>0</P>
+<Q>0</Q>
+<R>2</R>
+<S>1</S>
+<T>2</T>
+<U>0</U>
+<V>0</V>
+<X>0</X>
+<W>0</W>
+<Y>0</Y>
+<Z>0</Z>
+</ROW>
+</ROWSET>

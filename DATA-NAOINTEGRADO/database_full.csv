@@ -1,0 +1,113 @@
+id,nome,nomesemacento,desc,dic,frase,autor,end,lat,lon,filesound,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,X,W,Y,Z
+1,imaginário,IMAGINARIO,1 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Tijuca,-22.9229869,-43.23059,1,2,0,0,0,0,0,1,0,3,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0
+2,hilário,HILARIO,"1 Que se refere ao hilo1. 2 Que provoca riso, hilariante.","hi.lá.rio 
+adj (hilo+ário)","É hilário ser uma espécie de aglomerado de informações ambulante e morar em um planeta administrado por ""gente"" que nem é daqui.",G. Hitchens,"praça santos dumont, gávea, rio de janeiro",-22.9229869,-43.23059,2,1,0,0,0,0,0,0,1,2,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+3,contrário,CONTRARIO,"1 contrário, oposto, contraditório. 2 contraposto, fronteiro, frontal. 3 fig inimigo.","con.tra.rio
+sm contrário, inverso, oposto. • agg",O poder é o camaleão ao contrário: todos tomam a sua cor.,Millôr Fernandes,"Méier, Rio de Janeiro",-22.9229869,-43.23059,3,1,0,1,0,0,0,0,0,1,0,0,0,0,1,2,0,0,2,0,1,0,0,0,0,0,0
+4,relicário,RELICARIO,1 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Tijuca,-22.9229869,-43.23059,4,1,0,1,0,1,0,0,0,2,0,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0
+5,armário,ARMARIO,1 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Sao Sebastiao I. De,23°50'S,45°18'W,5,2,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0
+6,comentário,COMENTARIO,1 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sao tome C. de,22°0'S,40°59'W,6,1,0,1,0,1,0,0,0,1,0,0,0,1,1,2,0,0,1,0,1,0,0,0,0,0,0
+7,brumário,BRUMARIO,1 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Sao Vicente,23°57'S,46°23'W,7,1,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,2,0,0,1,0,0,0,0,0
+8,visionário,VISIONARIO,2 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Saturnina,12°15'S,58°10'W,8,1,0,0,0,0,0,0,0,3,0,0,0,0,1,2,0,0,1,1,0,0,1,0,0,0,0
+9,velório,VELORIO,2 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Selvas,6°30'S,67°0'W,9,0,0,0,0,1,0,0,0,1,0,0,1,0,0,2,0,0,1,0,0,0,1,0,0,0,0
+10,literário,LITERARIO,3 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sena Madureira,9°5'S,68°45'W,10,1,0,0,0,1,0,0,0,2,0,0,1,0,0,1,0,0,2,0,1,0,0,0,0,0,0
+11,ANTIQUÁRIO,ANTIQUARIO,3 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Senhor-do-Bonfim,10°30'S,40°10'W,11,2,0,0,0,0,0,0,0,2,0,0,0,0,1,1,0,1,1,0,1,1,0,0,0,0,0
+12,MISTÉRIO,MISTERIO,4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sergipe,10°30'S,37°30'W,12,0,0,0,0,1,0,0,0,2,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+13,AUTORITÁRIO,AUTORITARIO,4 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Serra do Navio,0°59'N,52°3'W,13,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,2,0,2,1,0,0,0,0,0
+14,MARTÍRIO,MARTIRIO,2 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sertanopolis,23°4'S,51°2'W,14,1,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,0,2,0,1,0,0,0,0,0,0
+15,HILÁRIO,HILARIO,2 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Sete Lagoas,19°27'S,44°16'W,15,1,0,0,0,0,0,0,1,2,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+16,ONDULATÓRIO,ONDULATORIO,3 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,"Sincora, Serra do,",13°30'S,41°0'W,16,1,0,0,1,0,0,0,0,1,0,0,1,0,1,3,0,0,1,0,1,1,0,0,0,0,0
+17,BALNEÁRIO,BALNEARIO,3 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Sobradinho Represa de,9°30'S,42°0'E,17,2,1,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+18,DEJÚRIO,DEJURIO,4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sobral,3°50'S,40°20'W,18,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+19,BESTIÁRIO,BESTIARIO,4 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Sono,9°58'S,48°11'W,19,1,1,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0
+20,CRITÉRIO,CRITERIO,5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sorocaba,23°31'S,47°27'W,20,0,0,1,0,1,0,0,0,2,0,0,0,0,0,1,0,0,2,0,1,0,0,0,0,0,0
+21,CALVÁRIO,CALVARIO,5 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Soure,0°35'S,48°30'W,21,2,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+22,ALVEDRIO,ALVEDRIO,3 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sousa,6°45'S,38°10'W,22,1,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+23,CARCERÁRIO,CARCERARIO,2 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Tapaua,5°40'S,64°21'W,23,2,0,2,0,1,0,0,0,1,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0
+24,PROVISÓRIO,PROVISORIO,2 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Taquara,29°36'S,50°46'W,24,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,1,0,2,1,0,0,1,0,0,0,0
+25,IMAGINÁRIO,IMAGINARIO,3 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Teles Pires,7°21'S,58°3'W,25,2,0,0,0,0,0,1,0,3,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0
+26,AUGÚRIO,AUGURIO,3 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Tibagi,24°30'S,50°24'W,26,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0
+27,CENTENÁRIO,CENTENARIO,4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Tiete,20°40'S,51°35'W,27,1,0,1,0,2,0,0,0,1,0,0,0,0,2,1,0,0,1,0,1,0,0,0,0,0,0
+28,GALDÉRIO,GALDERIO,4 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Tocantins,10°0'S,48°0'W,28,1,0,0,1,1,0,1,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+29,DEFICITÁRIO,DEFICITARIO,5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Todas os Santos B. de,12°48'S,38°38'W,29,1,0,1,1,1,1,0,0,3,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+30,MULHERIO,MULHERIO,5 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Toledo,24°44'S,53°45'W,30,0,0,0,0,1,0,0,1,1,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0
+31,EMISSÁRIO,EMISSARIO,3 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Tonantins,2°45'S,67°45'W,31,1,0,0,0,1,0,0,0,2,0,0,0,1,0,1,0,0,1,2,0,0,0,0,0,0,0
+32,SIMPLÓRIO,SIMPLORIO,3 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Torres,29°21'S,49°44'W,32,0,0,0,0,0,0,0,0,2,0,0,1,1,0,2,1,0,1,1,0,0,0,0,0,0,0
+33,ERÁRIO,ERARIO,4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Trindade,16°40'S,49°30'W,33,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0
+34,ESPÚRIO,ESPURIO,4 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Trombetas,1°55'S,55°35'W,34,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0
+35,ESTUÁRIO,ESTUARIO,5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Tubarao,28°30'S,49°0'W,35,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0
+36,REFRIGÉRIO,REFRIGERIO,5 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Tucurui,3°42'S,49°44'W,36,0,0,0,0,2,1,1,0,2,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0
+37,EXTRAORDINÁRIO,EXTRAORDINARIO,6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Tucurui Represa de,4°0'S,49°30'W,37,2,0,0,1,1,0,0,0,2,0,0,0,0,1,2,0,0,3,0,1,0,0,1,0,0,0
+38,MERENCÓRIO,MERENCORIO,6 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Tumucumaque Serra,2°0'N,55°0'W,38,0,0,1,0,2,0,0,0,1,0,0,0,1,1,2,0,0,2,0,0,0,0,0,0,0,0
+39,CENÁRIO,CENARIO,4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Tupa,21°57'S,50°28'W,39,1,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+40,MURMÚRIO,MURMURIO,3 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Turiacu,1°40'S,45°19'E,40,0,0,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,2,0,0,2,0,0,0,0,0
+41,PUBLICITÁRIO,PUBLICITARIO,3 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Tutoia,2°45'S,42°20'W,41,1,1,1,0,0,0,0,0,3,0,0,1,0,0,1,1,0,1,0,1,1,0,0,0,0,0
+42,SÉRIO,SERIO,4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,uatuma,2°26'S,57°37'W,42,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+43,COMUNITÁRIO,COMUNITARIO,4 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Uaupes,0°8'S,67°5'W,43,1,0,1,0,0,0,0,0,2,0,0,0,1,1,2,0,0,1,0,1,1,0,0,0,0,0
+44,IMPRÓPRIO,IMPROPRIO,5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Uba,21°8'S,43°0'W,44,0,0,0,0,0,0,0,0,2,0,0,0,1,0,2,2,0,2,0,0,0,0,0,0,0,0
+45,CONTRÁRIO,CONTRARIO,5 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Ubaitaba,14°18'S,39°20'W,45,1,0,1,0,0,0,0,0,1,0,0,0,0,1,2,0,0,2,0,1,0,0,0,0,0,0
+46,EPICÚRIO,EPICURIO,6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Uberaba,19°50'S,47°55'W,46,0,0,1,0,1,0,0,0,2,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0
+47,FALSÁRIO,FALSARIO,6 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Uberlandia,19°0'S,48°20'W,47,2,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+48,DESPAUTÉRIO,DESPAUTERIO,4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Umuarama,23°45'S,53°20'W,48,1,0,0,1,2,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0
+49,FUNCIONÁRIO,FUNCIONARIO,4 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Uniao da Vitoria,26°13'S,51°5'W,49,1,0,1,0,0,1,0,0,2,0,0,0,0,2,2,0,0,1,0,0,1,0,0,0,0,0
+50,NOTÓRIO,NOTORIO,5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Vacaria,28°31'S,50°52'W,50,0,0,0,0,0,0,0,0,1,0,0,0,0,1,3,0,0,1,0,1,0,0,0,0,0,0
+51,HUMANITÁRIO,HUMANITARIO,5 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Valenca,13°20'S,39°5'W,51,2,0,0,0,0,0,0,1,2,0,0,0,1,1,1,0,0,1,0,1,1,0,0,0,0,0
+52,MERCÚRIO,MERCURIO,6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Valenca do Piaui,6°20'S,41°45'W,52,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,2,0,0,1,0,0,0,0,0
+53,INCENDIÁRIO,INCENDIARIO,6 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Valentim Sa. Do,6°0'S,43°30'W,53,1,0,1,1,1,0,0,0,3,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0
+54,ÉBRIO,EBRIO,7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Varginha,21°33'S,45°25'W,54,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+55,LENDÁRIO,LENDARIO,7 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Vaupes/Uaupes,0°2'N,67°16'W,55,1,0,0,1,1,0,0,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+56,DESVARIO,DESVARIO,5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Velhas,17°13'S,44°49'W,56,1,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0
+57,LITERÁRIO,LITERARIO,4 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Verde Goias,18°1'S,50°14'W,57,1,0,0,0,1,0,0,0,2,0,0,1,0,0,1,0,0,2,0,1,0,0,0,0,0,0
+58,RESERVATÓRIO,RESERVATORIO,4 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Verde Mato Grosso do Sul,21°25'S,52°20'W,58,1,0,0,0,2,0,0,0,1,0,0,0,0,0,2,0,0,3,1,1,0,1,0,0,0,0
+59,MERCENÁRIO,MERCENARIO,5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Viamao,3°13'S,44°55'W,59,1,0,1,0,2,0,0,0,1,0,0,0,1,1,1,0,0,2,0,0,0,0,0,0,0,0
+60,ANTÚRIO,ANTURIO,5 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Vianopolis,16°40'S,48°35'W,60,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,1,1,0,0,0,0,0
+61,MILIONÁRIO,MILIONARIO,6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Vigia,0°50'S,48°5'W,61,1,0,0,0,0,0,0,0,3,0,0,1,1,1,2,0,0,1,0,0,0,0,0,0,0,0
+62,ADULTÉRIO,ADULTERIO,6 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Vila Velha,20°20'S,40°17'W,62,1,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0
+63,NECESSÁRIO,NECESSARIO,7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Vilhena,12°40'S,60°5'W,63,1,0,1,0,2,0,0,0,1,0,0,0,0,1,1,0,0,1,2,0,0,0,0,0,0,0
+64,DELÍRIO,DELIRIO,7 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Viseu,1°10'S,46°5'W,64,0,0,0,1,1,0,0,0,2,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+65,OTÁRIO,OTARIO,5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Vitoria,20°20'S,40°22'W,65,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0
+66,TERRITÓRIO,TERRITORIO,5 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Vitoria da Conquista,14°51'S,40°51'W,66,0,0,0,0,1,0,0,0,2,0,0,0,0,0,2,0,0,3,0,2,0,0,0,0,0,0
+67,PROLETÁRIO,PROLETARIO,6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Vitoria de Sao Antao,8°10'S,35°20'W,67,1,0,0,0,1,0,0,0,1,0,0,1,0,0,2,1,0,2,0,1,0,0,0,0,0,0
+68,PERJÚRIO,PERJURIO,6 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Volta Redonda,22°31'S,44°5'W,68,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,2,0,0,1,0,0,0,0,0
+69,SANTUÁRIO,SANTUARIO,7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Roraima,2°0'N,61°30'W,69,2,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,1,1,0,0,0,0,0
+70,DELETÉRIO,DELETERIO,7 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Rosarioa,3°0'S,44°15'W,70,0,0,0,1,3,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+71,SEDENTÁRIO,SEDENTARIO,8 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Rosario do Sul,30°15'S,54°55'W,71,1,0,0,1,2,0,0,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0
+72,FALARIO,FALARIO,8 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Salinas,16°10'S,42°10'W,72,2,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+73,OPERÁRIO,OPERARIO,6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Salvador,13°0'S,38°30'W,73,1,0,0,0,1,0,0,0,1,0,0,0,0,0,2,1,0,2,0,0,0,0,0,0,0,0
+74,COMPULSÓRIO,COMPULSORIO,5 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sangue,11°1'S,58°39'W,74,0,0,1,0,0,0,0,0,1,0,0,1,1,0,3,1,0,1,1,0,1,0,0,0,0,0
+75,PROPRIETÁRIO,PROPRIETARIO,5 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Santa Catarina,27°25'S,48°30'W,75,1,0,0,0,1,0,0,0,2,0,0,0,0,0,2,2,0,3,0,1,0,0,0,0,0,0
+76,IMPROPÉRIO,IMPROPERIO,6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Santa Catarina I. De,27°30'S,48°40'W,76,0,0,0,0,1,0,0,0,2,0,0,0,1,0,2,2,0,2,0,0,0,0,0,0,0,0
+77,ORDINÁRIO,ORDINARIO,6 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Santa Cruz do Rio Pardo,54'S,49°37'W,77,1,0,0,1,0,0,0,0,2,0,0,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0
+78,CASARIO,CASARIO,7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Santa Curz do Sul,29°42'S,52°25'W,78,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+79,ORIGINÁRIO,ORIGINARIO,7 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Santa Fe do Sul,20°13'S,50°56'W,79,1,0,0,0,0,0,1,0,3,0,0,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0
+80,ILUSÓRIO,ILUSORIO,8 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Santa Isabel do Morro,11°34'S,50°40'W,80,0,0,0,0,0,0,0,0,2,0,0,1,0,0,2,0,0,1,1,0,1,0,0,0,0,0
+81,PERDULÁRIO,PERDULARIO,8 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Santa Maria,29°40'S,53°48'W,81,1,0,0,1,1,0,0,0,1,0,0,1,0,0,1,1,0,2,0,0,1,0,0,0,0,0
+82,NECROTÉRIO,NECROTERIO,6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Santa Maria da Vitoria,13°24'S,44°12'W,82,0,0,1,0,2,0,0,0,1,0,0,0,0,1,2,0,0,2,0,1,0,0,0,0,0,0
+83,PLAGIÁRIO,PLAGIARIO,6 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Santa Marta Grande C.,28°43'S,48°50'W,83,2,0,0,0,0,0,1,0,2,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+84,IRRISÓRIO,IRRISORIO,7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Santa Rosa,27°52'S,54°29'W,84,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,0,0,3,1,0,0,0,0,0,0,0
+85,LIBERTÁRIO,LIBERTARIO,7 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Santa Vitoria do Palmar,33°32'S,53°25'W,85,1,1,0,0,1,0,0,0,2,0,0,1,0,0,1,0,0,2,0,1,0,0,0,0,0,0
+86,MAGISTÉRIO,MAGISTERIO,8 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,"Santana, Coxilha de,",30°50'S,55°35'W,86,1,0,0,0,1,0,1,0,2,0,0,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+87,PORTUÁRIO,PORTUARIO,8 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Santana do Livramento,30°55'S,55°30'W,87,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,2,0,1,1,0,0,0,0,0
+88,BRIO,BRIO,9 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Santarem,2°25'S,54°42'W,88,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+89,PRECÁRIO,PRECARIO,9 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Satiago,29°11'S,54°52'W,89,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0
+90,PURGATÓRIO,PURGATORIO,7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Santo Amaro,12°30'S,38°43'W,90,1,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,0,2,0,1,1,0,0,0,0,0
+91,VÁRIO,VARIO,6 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Santo Anastacio,21°58'S,51°39'W,91,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+92,PODERIO,PODERIO,6 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Santo Antonio do Ica,3°5'S,67°57'W,92,0,0,0,1,1,0,0,0,1,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0
+93,REACIONÁRIO,REACIONARIO,7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Santo Antonio do Leverger,15°52'S,56°5'W,93,2,0,1,0,1,0,0,0,2,0,0,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0
+94,SATISFATÓRIO,SATISFATORIO,7 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Santos,24°0'S,46°20'W,94,2,0,0,0,0,1,0,0,2,0,0,0,0,0,2,0,0,1,2,2,0,0,0,0,0,0
+95,REVOLUCIONÁRIO,REVOLUCIONARIO,8 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sao Bernardo do Campo,23°45'S,46°34'W,95,1,0,1,0,1,0,0,0,2,0,0,1,0,1,3,0,0,2,0,0,1,1,0,0,0,0
+96,SOMBRIO,SOMBRIO,8 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Sao Borja,22°0'S,47°50'W,96,0,1,0,0,0,0,0,0,1,0,0,0,1,0,2,0,0,1,1,0,0,0,0,0,0,0
+97,SANGUINÁRIO,SANGUINARIO,9 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sao Cristovao,11°1'S,37°15'W,97,2,0,0,0,0,0,1,0,2,0,0,0,0,2,1,0,0,1,1,0,1,0,0,0,0,0
+98,EMPÓRIO,EMPORIO,9 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Sao Domingos,13°25'S,46°19'W,98,0,0,0,0,1,0,0,0,1,0,0,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0
+99,SOLIDÁRIO,SOLIDARIO,7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sao Francisco,16°0'S,44°50'W,99,1,0,0,1,0,0,0,0,2,0,0,1,0,0,2,0,0,1,1,0,0,0,0,0,0,0
+100,OBSERVATÓRIO,OBSERVATORIO,7 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Sao Francisco do Sul,26°15'S,48°36'W,100,1,1,0,0,1,0,0,0,1,0,0,0,0,0,3,0,0,2,1,1,0,1,0,0,0,0
+101,SOLÁRIO,SOLARIO,8 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sao Gabriel,30°20'S,54°20'W,101,1,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,0,1,1,0,0,0,0,0,0,0
+102,ALEATÓRIO,ALEATORIO,8 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Sao Goncalo,22°48'S,43°5'W,102,2,0,0,0,1,0,0,0,1,0,0,1,0,0,2,0,0,1,0,1,0,0,0,0,0,0
+103,TEMERÁRIO,TEMERARIO,9 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sao Joao da Boa vista,22°0'S,46°52'W,103,1,0,0,0,2,0,0,0,1,0,0,0,1,0,1,0,0,2,0,1,0,0,0,0,0,0
+104,PREDATÓRIO,PREDATORIO,9 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Sao Joao del Rei,21°8'S,44°15'W,104,1,0,0,1,1,0,0,0,1,0,0,0,0,0,2,1,0,2,0,1,0,0,0,0,0,0
+105,TEMPORÁRIO,TEMPORARIO,10 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sao Joao do Piaui,8°21'S,42°15'W,105,1,0,0,0,1,0,0,0,1,0,0,0,1,0,2,1,0,2,0,1,0,0,0,0,0,0
+106,ROTATÓRIO,ROTATORIO,10 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Sao Jose,27°38'S,48°39'W,106,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,2,0,2,0,0,0,0,0,0
+107,TRIBUTÁRIO,TRIBUTARIO,8 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sao Jose do Norte,32°1'S,52°3'W,107,1,1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,2,0,2,1,0,0,0,0,0
+108,OBRIGATÓRIO,OBRIGATORIO,7 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sao Jose dos Campos,23°7'S,45°52'W,108,1,1,0,0,0,0,1,0,2,0,0,0,0,0,3,0,0,2,0,1,0,0,0,0,0,0
+109,VISIONÁRIO,VISIONARIO,7 ipsum lorem ipsum lorem,ip.sum lo.rem,ipsum ipsum ipsum lorem,I. Lorem,Sao Leopoldo,29°50'S,51°10'W,109,1,0,0,0,0,0,0,0,3,0,0,0,0,1,2,0,0,1,1,0,0,1,0,0,0,0
+110,TRANSITÓRIO,TRANSITORIO,8 lorem ispum lorem ipsum 2 lorem ipsum lorem ipsum,lo.rem ip.sum,lorem ipsum lorem ipsum lorem ipsum,L. Ipsum,Sao Lourenco,22°7'S,45°3'W,110,1,0,0,0,0,0,0,0,2,0,0,0,0,1,2,0,0,2,1,2,0,0,0,0,0,0
